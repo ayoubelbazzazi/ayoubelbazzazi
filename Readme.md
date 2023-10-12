@@ -13,7 +13,7 @@ As a data analyst, I have extensive knowledge in processing, analysing and inter
 </details>
 
 <details>
-<summary>Full stack web developer</summary>
+<summary>Full-stack web developer</summary>
 As a full-stack web developer, I am experienced in creating web applications from the ground up using a variety of web technologies including HTML, CSS, Javascript and ReactJs.<br>
 As the MERN stack is the central pillar of my web development skills, I'm pretty familiar with a wide range of back-end technologies such as NodeJS and its popular framework ExpressJS and database technologies namely Mongodb, PostgreSQL and Firebase, that, coupled with the best software development practices including the MVC design pattern and test driven development, allows for the creation of responsive, user-friendly and scalable web applications.
 <br><br>
