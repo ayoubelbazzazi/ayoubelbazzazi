@@ -5,7 +5,7 @@
 <a href="mailto:a.elbazzazi@outlook.com"><img src="./assets/email.svg" style="width:30px;height:auto;"/></a>
 <h2>What I do?</h2>
 <details>
-<summary>Data analyst</summary>
+<summary style="font-size:1.2rem">Data analyst</summary><br>
 As a data analyst, I have extensive knowledge in processing, analysing and interpreting complex sets of data. I'm well versed in R and Python, two prominent programming languages in data science allowing to derive insights and uncover trends in data. Additionally, I make use of Tableau and Power BI to create stunning data visualizations and dashboards that are effective in communicating and reporting findings to both technical and non-technical stakeholders. Finally, I'm familiar with both Sql and noSql databases to efficiently store and secure your data.
 <br><br>
 
@@ -13,7 +13,7 @@ As a data analyst, I have extensive knowledge in processing, analysing and inter
 </details>
 
 <details>
-<summary>Full-stack web developer</summary>
+<summary style="font-size:1.2rem">Full stack web developer</summary><br>
 As a full-stack web developer, I am experienced in creating web applications from the ground up using a variety of web technologies including HTML, CSS, Javascript and ReactJs.<br>
 As the MERN stack is the central pillar of my web development skills, I'm pretty familiar with a wide range of back-end technologies such as NodeJS and its popular framework ExpressJS and database technologies namely Mongodb, PostgreSQL and Firebase, that, coupled with the best software development practices including the MVC design pattern and test driven development, allows for the creation of responsive, user-friendly and scalable web applications.
 <br><br>
