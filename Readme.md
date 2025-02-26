@@ -15,6 +15,7 @@ I focus on using data to drive decision-making and deliver meaningful results th
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=gray)
 ![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![powerbi](https://img.shields.io/badge/power%20bi-yellow?style=for-the-badge)
 ![tableau](https://img.shields.io/badge/Tableau-ff0033?style=for-the-badge)
 ![d3](https://img.shields.io/badge/D3-F9A03C?style=for-the-badge&logo=d3&logoColor=white)
