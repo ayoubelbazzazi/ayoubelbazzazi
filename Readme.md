@@ -1,22 +1,25 @@
-<img src="./assets/cover image.png" style="width:100%;margin-bottom:1rem;"/>
-<h1>Hi! My name is Ayoub <img src="./assets/Hi.gif" width="30px" height="30px"></h1>
-<a href="https://ayoubelbazzazi.vercel.app"><img src="./assets/website.svg" style="width:30px;height:auto;"/></a>
-<a href="https://www.linkedin.com/in/ayoub-el-bazzazi-6084b2260/"><img src="./assets/linkedin.svg" style="width:30px;height:auto;"/></a>
-<a href="mailto:a.elbazzazi@outlook.com"><img src="./assets/email.svg" style="width:30px;height:auto;"/></a>
-<h2>What I do?</h2>
-<details>
-<summary style="font-size:1.2rem">Data analyst</summary><br>
-As a data analyst, I have extensive knowledge in processing, analysing and interpreting complex sets of data. I'm well versed in R and Python, two prominent programming languages in data science allowing to derive insights and uncover trends in data. Additionally, I make use of Tableau and Power BI to create stunning data visualizations and dashboards that are effective in communicating and reporting findings to both technical and non-technical stakeholders. Finally, I'm familiar with both Sql and noSql databases to efficiently store and secure your data.
-<br><br>
+### Hi
+I am Ayoub and I am a Data Analyst and a Programmer passionate about turning raw data into clear, actionable insights, uncovering trends, and creating impactful data visualizations that tell compelling stories.
 
-**Key skills:** Statistics, python, pandas, numpy, scrapy, matplotlib, seaborn, sql, tableau, powerbi.
-</details>
+I focus on using data to drive decision-making and deliver meaningful results through effective analysis and clear visual representation.
 
-<details>
-<summary style="font-size:1.2rem">Full stack web developer</summary><br>
-As a full-stack web developer, I am experienced in creating web applications from the ground up using a variety of web technologies including HTML, CSS, Javascript and ReactJs.<br>
-As the MERN stack is the central pillar of my web development skills, I'm pretty familiar with a wide range of back-end technologies such as NodeJS and its popular framework ExpressJS and database technologies namely Mongodb, PostgreSQL and Firebase, that, coupled with the best software development practices including the MVC design pattern and test driven development, allows for the creation of responsive, user-friendly and scalable web applications.
-<br><br>
+🔍 Data analysis using SQL / Python</br>
+📈 Data visualization using Tableau ([See my tableau public page](https://public.tableau.com/app/profile/ayoub7049/vizzes)) / PowerBI
 
-**Key skills:** Html, css, sass, tailwindcss, javascript, typescript, reactjs, nextjs, nodejs, postgresql, mongodb 
-</details>
+### Languages and tools
+
+![Html](https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Html](https://img.shields.io/badge/Css-254bdf?style=for-the-badge&logo=css3&logoColor=white)
+![Html](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Html](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Html](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=gray)
+![Html](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Html](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Html](https://img.shields.io/badge/power%20bi-yellow?style=for-the-badge)
+![Html](https://img.shields.io/badge/Tableau-ff0033?style=for-the-badge)
+![Html](https://img.shields.io/badge/D3-F9A03C?style=for-the-badge&logo=d3&logoColor=white)
+![Html](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### How you can reach me
+
+[LinkedIn](https://www.linkedin.com/in/ayoub-el-bazzazi-6084b2260/) [Website](https://ayoubelbazzazi.com)
+
